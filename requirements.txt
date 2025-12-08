@@ -1,0 +1,6 @@
+flask
+pandas
+prophet
+boto3
+python-dotenv
+gunicorn
